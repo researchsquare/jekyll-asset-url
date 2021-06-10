@@ -1,0 +1,1 @@
+require 'jekyll/asset-url'
